@@ -1,0 +1,3 @@
+model,target,validation,accuracy,precision,recall,f1,mae,r2
+RandomForestClassifier,stress_flag,GroupKFold by plant_id,0.9583,0.7647,0.619,0.6842,,
+RandomForestRegressor,flower_count,GroupKFold by plant_id,,,,,0.6591,0.3553

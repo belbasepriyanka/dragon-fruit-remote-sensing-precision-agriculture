@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this portfolio workflow, please cite the repository."
+title: "Dragon Fruit Remote Sensing & Precision Agriculture"
+type: software
+authors:
+  - family-names: Belbase
+    given-names: Priyanka
+repository-code: "https://github.com/belbasepriyanka/dragon-fruit-remote-sensing-precision-agriculture"
+license: MIT
+date-released: 2026-08-18
+keywords:
+  - remote sensing
+  - precision agriculture
+  - hyperspectral sensing
+  - machine learning
+  - dragon fruit
