@@ -1,14 +1,5 @@
-# Project Timeline
+# Research and software context
 
-This timeline distinguishes the **research context** from the **public GitHub implementation date**. Git commit history has not been backdated.
+This workflow is informed by doctoral research at Florida International University on dragon fruit grown under high-tunnel and open-field conditions. Research topics include phenology, soil and plant nutrients, hyperspectral reflectance and production economics. The dissertation was defended in June 2026.
 
-| Year | Development context |
-|---|---|
-| **2023** | Field experiment establishment, repeated plant observations, crop-growth and phenology data organization, GIS/remote-sensing research foundation |
-| **2024** | Expanded spectral and plant-health analysis, hyperspectral feature exploration, continued field observations and environmental-response analysis |
-| **2025** | Soil/tissue nutrient and spectral integration, vegetation-index analysis, statistical interpretation, reproducible analysis development |
-| **2026** | Public GitHub portfolio implementation, synthetic demonstration dataset, grouped machine-learning validation, Sentinel-2 workflow, notebooks, figures, tests and recruiter-facing documentation |
-
-## Important distinction
-
-The repository's public code and demonstration outputs were prepared as a **2026 portfolio implementation**. Earlier years refer to the underlying research and technical development context; they do not imply that this GitHub repository existed in those years.
+The public Python workflow uses generated demonstration observations. Research publications and their dates can be found through [Google Scholar](https://scholar.google.com/citations?user=bkSmlQ8AAAAJ). Software changes are recorded in Git history.
